@@ -40,7 +40,7 @@ All the text on the site comes from `src/data/portfolio.ts`. Put your CV in `pub
 ## Contact
 
 - Email: mksghamry20@gmail.com
-- LinkedIn: https://l1nk.dev/linkedinElghamry
+- LinkedIn: https://www.linkedin.com/in/mohamed-ahmed-elghamry-0aa671155/
 - GitHub: https://github.com/MKSJGhamry
 
 
