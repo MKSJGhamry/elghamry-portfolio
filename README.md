@@ -44,6 +44,6 @@ All the text on the site comes from `src/data/portfolio.ts`. Put your CV in `pub
 - GitHub: https://github.com/MKSJGhamry
 
 
-   ## Credits
+## Credits
 
-   Based on the Portfolio_series template by Sushmita Dasari (https://github.com/Sushmitadasari). Content, design changes and data are Mohamed Elghamry's.
+Based on the Portfolio_series template by Sushmita Dasari (https://github.com/Sushmitadasari). Content, design changes and data are Mohamed Elghamry's.
